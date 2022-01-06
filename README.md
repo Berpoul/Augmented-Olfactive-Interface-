@@ -5,7 +5,10 @@ This project aims at simulating smell diffusion in virtual environment and conne
 
 The olfactory interface is a wireless and portable scent releaser neckless. This device can be composed of one or several releaser modules for different smells. This interface can control independently the intensity and the frequency of each scent release. Such device offer new immersive experiences in Virtual Reality to push forward Tele-presence technologies
 
+# Install 
+Launch Unity Hub 
 
+# Startup Project
 # Project Overview
 
 ![diagrame](diagram.png )
