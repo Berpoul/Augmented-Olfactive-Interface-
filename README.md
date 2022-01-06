@@ -7,6 +7,7 @@ The olfactory interface is a wireless and portable scent releaser neckless. This
 
 
 # Project Overview
+
 As a way to asses how immersive, olfative interface combined with virtual reality could be, It is interested to study the impact of odors on user's navigation in a virtual environment.
 
 Hypothesis : Smell improves user's navigation in virtual reality experiences.
