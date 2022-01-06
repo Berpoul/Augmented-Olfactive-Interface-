@@ -20,11 +20,13 @@ The experiment uses different senses depending on which maze :
 - Maze 2 : Smell + Sight
 - Maze 3 : Smell
 
+![maze](Maze1.png)
 
 The time spent and the number of dead end taken are counted.
 A scent will be diffused from the exit and all along the right way. The intensity of this smell will vary based on the user's position in the maze : As the user is getting closer to the exit, the intensity of smell released increases. 
 
 ## Technical Setup
+![mad](Madalina.JPG)
 ### Hardware
 - 4D space : Oculus Quest 2, Cat VR Laptop (Dell xps 9510)
 - Olfactory Interface (Scent diffusion system with driver circuit and Arduino)
