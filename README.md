@@ -28,3 +28,15 @@ A scent will be diffused from the exit and all along the right way. The intensit
 ### Software
 - Unity 2020.3.20f1 (Virtual environment) 
 - Package Uduino (Connect unity to Arduino
+
+
+
+## Measures
+- Execution time of the task : Time spent by the user in the maze before finding the exit (in minutes) (Objective/Quantitative)
+- Number of wrong way taken by the user before finding the exit(Objective/Quantitative)
+- User questionnaries : NASA Task Load IndexI
+- Immersion in virtual reality on a scale (1-5) for the differents exper-iments (Sight,Sight and Smell, Smell) (Subjective/Quantitative)
+- Why did you give this mark ? Lack of what to get to 5 ?
+- Which experience is easier to archieve ? (Subjective/Qualitative)
+- User’s feeling about the impact of odors on immersion in VR(Subjective/Qualitative)
+- User’s feeling about the impact of odors on navigation in VR(Subjective/Qualitative
