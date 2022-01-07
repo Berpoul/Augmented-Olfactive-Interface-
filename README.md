@@ -30,7 +30,7 @@ Upload the main code : File > Examples > Uduino > Uduino
 
 # Startup Project
 To start the project, simply click on play : 
-![play](Screenshot (4).png)
+![play](Screenshot.png)
 
 # Project Overview
 
