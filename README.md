@@ -11,7 +11,7 @@ Launch Unity Hub
 # Startup Project
 # Project Overview
 
-![diagrame](diagram.png )
+![diagrame](diagram.png width="400")
 
 As a way to asses how immersive, olfative interface combined with virtual reality could be, It is interested to study the impact of odors on user's navigation in a virtual environment.
 
