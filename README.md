@@ -16,9 +16,22 @@ Import Assets and project settings
 Activate Developper mode on Oculus Quest 2 settings
 Setup Unity environment for VR interface with Oculus Quest 2 :
 https://www.youtube.com/watch?v=F4gDjCLYX88
+## Download
+Download Uduino from the Asset store
+Import it in your Unity project
+
+## Setup Uduino in your project
+Add the prefab Uduino to your main scene
+Follow the instructions
+
+## Upload the library to the board
+Start Arduino IDE and connect the Arduino board
+Upload the main code : File > Examples > Uduino > Uduino
 
 # Startup Project
-To start the project, simply clock on lunch 
+To start the project, simply click on play : 
+![play](Screenshot (4).png)
+
 # Project Overview
 
 ![diagrame](diagram.png)
