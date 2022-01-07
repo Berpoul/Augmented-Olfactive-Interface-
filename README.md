@@ -7,6 +7,15 @@ The olfactory interface is a wireless and portable scent releaser neckless. This
 
 # Install 
 Launch Unity Hub 
+Install Unity Version 2020.3.20f1 or higher
+Add modules to Unity 2020.3.20f1 : Android Build Support 
+Launch a new project with Universal render Pipeline
+Import Assets
+
+# Setup Environment 
+Activate Developper mode on Oculus Quest 2 settings
+Setup Unity environment for VR interface with Oculus Quest 2 :
+https://www.youtube.com/watch?v=F4gDjCLYX88
 
 # Startup Project
 # Project Overview
