@@ -10,7 +10,7 @@ Launch Unity Hub
 Install Unity Version 2020.3.20f1 or higher
 Add modules to Unity 2020.3.20f1 : Android Build Support 
 Launch a new project with Universal render Pipeline
-Import Assets
+Import Assets and project settings
 
 # Setup Environment 
 Activate Developper mode on Oculus Quest 2 settings
@@ -18,6 +18,7 @@ Setup Unity environment for VR interface with Oculus Quest 2 :
 https://www.youtube.com/watch?v=F4gDjCLYX88
 
 # Startup Project
+To start the project, simply clock on lunch 
 # Project Overview
 
 ![diagrame](diagram.png)
